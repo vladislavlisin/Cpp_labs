@@ -1,0 +1,1 @@
+# REGEXP -> E-NFA -> NFA -> DFA -> MINIMIZED_DFA 
